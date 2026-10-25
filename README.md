@@ -18,6 +18,11 @@
 
 ---
 
+## 🔥 Try it!
+You can try this benchmark test tool **right now** by clicking *[this link](https://realmike0.github.io/QuantumX-Extreme-Benchmark-Suite/QuantumX-Extreme-Benchmark-Suite.html)*
+
+--
+
 ## 🛠️ Tech Stack
 
 - **Core Engine:** HTML5, Modern JavaScript (ES6+)
